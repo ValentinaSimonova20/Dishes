@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9fe70f2-41b1-4fed-8071-c9bbb086cdea" name="Default Changelist" comment="result" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oG1ZdphqAAfKlga0yx4eWMZ0m2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SemenovaSite/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\valentinaS\PycharmProjects\SemenovaSite\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\valentinaS\PycharmProjects\SimonovaSite\templates" />
+      <recent name="C:\Users\valentinaS\PycharmProjects\SimonovaSite\templates\rent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.SemenovaSite">
+    <configuration name="SemenovaSite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SemenovaSite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SemenovaSite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\valentinaS\PycharmProjects\SemenovaSite\venv2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimonovaSite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SemenovaSite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SimonovaSite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.SimonovaSite" />
+      <item itemvalue="Django Server.SemenovaSite" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fe70f2-41b1-4fed-8071-c9bbb086cdea" name="Default Changelist" comment="" />
+      <created>1612898170169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612898170169</updated>
+      <workItem from="1612898231225" duration="251000" />
+      <workItem from="1612898691634" duration="8656000" />
+      <workItem from="1612918699981" duration="733000" />
+      <workItem from="1612963450602" duration="1332000" />
+      <workItem from="1613053529040" duration="8637000" />
+      <workItem from="1613145750284" duration="6756000" />
+      <workItem from="1613491358825" duration="618000" />
+      <workItem from="1613678410518" duration="4051000" />
+      <workItem from="1613744976480" duration="4220000" />
+      <workItem from="1613832259396" duration="2661000" />
+      <workItem from="1614000110250" duration="4794000" />
+      <workItem from="1614198828558" duration="4996000" />
+      <workItem from="1614262676498" duration="1689000" />
+      <workItem from="1614523690326" duration="3749000" />
+      <workItem from="1614531224956" duration="600000" />
+      <workItem from="1614616244490" duration="763000" />
+      <workItem from="1614617530492" duration="1294000" />
+      <workItem from="1615034782240" duration="721000" />
+      <workItem from="1615035527562" duration="4658000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit. adding tables">
+      <created>1612905602347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612905602347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="make migrations">
+      <created>1612906475301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612906475301</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create admin site">
+      <created>1612909733542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612909733542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="solve problem with displaying image">
+      <created>1612919465241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612919465241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change model">
+      <created>1613060164247</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613060164247</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add manyToMany relation. add new model - Purposes of premises">
+      <created>1613065409197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613065409197</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add settings for admin site">
+      <created>1613067650429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613067650429</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add template for site menu. add authorization">
+      <created>1613691028682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613691028682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add registration">
+      <created>1613747136203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613747136203</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add office detailed information page">
+      <created>1613749146401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613749146401</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add create application by user function">
+      <created>1613834938930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613834938930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add bootstrap to navigation menu, login form and register form">
+      <created>1614007789425</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614007789425</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add bootstrap to navigation menu, login form and register form">
+      <created>1614203911317</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614203911317</updated>
+    </task>
+    <task id="LOCAL-00014" summary="result">
+      <created>1614525317655</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614525317655</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit. adding tables" />
+    <MESSAGE value="make migrations" />
+    <MESSAGE value="create admin site" />
+    <MESSAGE value="solve problem with displaying image" />
+    <MESSAGE value="change model" />
+    <MESSAGE value="add manyToMany relation. add new model - Purposes of premises" />
+    <MESSAGE value="add settings for admin site" />
+    <MESSAGE value="add template for site menu. add authorization" />
+    <MESSAGE value="add registration" />
+    <MESSAGE value="add office detailed information page" />
+    <MESSAGE value="add create application by user function" />
+    <MESSAGE value="add bootstrap to navigation menu, login form and register form" />
+    <MESSAGE value="result" />
+    <option name="LAST_COMMIT_MESSAGE" value="result" />
+  </component>
+</project>
